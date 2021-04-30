@@ -5,4 +5,5 @@ Iniciando estudos com Kotlin.
  
   - [x] Conceito de Classe e Objeto
   - [x] Conceito de Herança (teórico e prático)
+  - [x] Polimorfismo
   - [ ] Continua
