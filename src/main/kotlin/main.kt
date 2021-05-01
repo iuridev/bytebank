@@ -3,8 +3,8 @@ fun main(){
     val name = "iuri"
     println("Titular $name")
 
-    //criando funcionario
-    val iuri = Funcionario( "Iuri", "123.456.789-10", 1500.0)
+    //criando Analista
+    val iuri = Analista( "Iuri", "123.456.789-10", 1500.0)
     println("Nome: ${iuri.nome}")
     println("CPF:: ${iuri.cpf}")
     println("Salário: ${iuri.salario}")
