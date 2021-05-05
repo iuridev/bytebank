@@ -7,4 +7,5 @@ Iniciando estudos com Kotlin.
   - [x] Conceito de Herança (teórico e prático)
   - [x] Polimorfismo
   - [x] Classes e metodos abstratos
+  - [x] Organizando arquivos em Pakages (Boas Práticas de Programação)
   - [ ] Continua
