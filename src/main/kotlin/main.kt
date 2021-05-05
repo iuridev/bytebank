@@ -1,3 +1,6 @@
+import models.Analista
+import models.Gerente
+
 fun main(){
     println("Bem vindo ao Bytebank")
     val name = "iuri"
@@ -12,7 +15,7 @@ fun main(){
     println("Função: ${iuri.tipo}")
 
 
-    //criando Gerente
+   //criando Gerente
     println("_________________________________________________________")
     val maria = Gerente("Maria", "125.584.586-87", 3500.0)
     println("Nome: ${maria.nome}")
