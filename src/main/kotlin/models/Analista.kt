@@ -1,4 +1,6 @@
-class Gerente(
+package models
+
+class Analista(
     nome: String,
     cpf: String,
     salario: Double
@@ -7,6 +9,6 @@ class Gerente(
     cpf = cpf,
     salario = salario
 ) {
-    override val tipo = "Gerente"
-    override val bonificacao = salario * 0.3
+    override val tipo = "Analista"
+    override val bonificacao = salario * 0.1
 }
